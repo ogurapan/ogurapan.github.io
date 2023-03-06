@@ -2,6 +2,7 @@ header {
   width: 100%;
   height: 65px;
   display: flex;
+  background-color: red;
 }
 
 .title {
@@ -11,6 +12,7 @@ header {
 
 .title-button {
   display: block;
+  float: right;
   position: fixed;
   top: 15px;
   right: 12px;
