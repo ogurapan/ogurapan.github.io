@@ -2,12 +2,13 @@ header {
   width: 100%;
   height: 65px;
   display: flex;
-  background-color: red;
+  background-color: ;
 }
 
-.title {
-  float: left;
+.title h1 {
+  float: ;
   font-size: 100px;
+  color: black;
 }
 
 .title-button {
@@ -30,4 +31,32 @@ header {
 .mainvisual {
   max-width: 100%;
   height: auto;
+}
+
+.about {
+  
+}
+
+.about-title {
+  font-size: 35px;
+}
+
+.about-content h2 {
+  font-size: 30px;
+}
+
+.about-content p {
+  font-size: 20px;
+}
+
+.yacht {
+  
+}
+
+..yacht-title {
+  font-size: 30px;
+}
+
+.yacht-content {
+  font-size: 20px;
 }
