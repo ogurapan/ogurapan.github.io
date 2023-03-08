@@ -5,6 +5,10 @@ header {
   background-color: #a9a9a9;
 }
 
+.header-right {
+  float: right;
+}
+
 .title h1 {
   font-size: 35px;
   color: #dc143c;
